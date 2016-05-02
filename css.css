@@ -4,7 +4,7 @@ body{
 	 margin:0px; padding:0px; line-height:30px; background:#7dcad2;
 }
 ul,li,*{ margin:0px; padding:0px; list-style-type:none}
-img{-ms-interpolation-mode:bicubic; width:102%;}
+img{-ms-interpolation-mode:bicubic; width:102%;vertical-align:bottom;}
 a:link,a:visited {
 	color: #FFF;
 	text-decoration: underline;
