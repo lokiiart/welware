@@ -16,7 +16,7 @@ a:hover{ color:#FF0}
 #top{ position:relative;}
 .top_news{position:absolute; right:6%; bottom:4%;color:#fff; }
 #main .nav{width:105%}
-#main .nav li{ display:inline-block;width: 33%;}
+#main .nav li{ display:inline-block;width: 32%;}
 #main .nav li img{width:102%;vertical-align:bottom;}
 .nav li p font{ color: #FF0}
 #main .nav li p{position: absolute; width:100%; left: 45px; top: 244px; color:#fff; }
