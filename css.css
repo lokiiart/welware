@@ -4,7 +4,7 @@ body{
 	 margin:0px; padding:0px; line-height:30px; background:#7dcad2;
 }
 ul,li,*{ margin:0px; padding:0px; list-style-type:none}
-img{-ms-interpolation-mode:bicubic; width:100%;}
+img{-ms-interpolation-mode:bicubic; width:105%;}
 a:link,a:visited {
 	color: #FFF;
 	text-decoration: underline;
@@ -15,7 +15,8 @@ a:hover{ color:#FF0}
 #logo{background:url(images/gy_top_01.jpg);background-size:100% 100%; max-width:610px; height:58px; line-height:58px; text-align:right; padding-right:30px; color:#fff;}
 #top{ position:relative;}
 .top_news{position:absolute; right:6%; bottom:4%;color:#fff; }
-#main .nav li{ float:left; position:relative; width:213px; height:276px;}
+#main .nav{width:102%}
+#main .nav li{ display:inline-block;width: 33%;}
 .nav li p font{ color: #FF0}
 #main .nav li p{position: absolute; width:100%; left: 45px; top: 244px; color:#fff; }
 #cent{ background:#fff;}
